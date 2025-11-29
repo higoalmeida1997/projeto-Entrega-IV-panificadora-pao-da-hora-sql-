@@ -32,4 +32,4 @@ O banco de dados foi modelado com base no seguinte mini-mundo:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/panificadora-pao-da-hora-sql-.git
+https://github.com/higoalmeida1997/projeto-Entrega-IV-panificadora-pao-da-hora-sql-
