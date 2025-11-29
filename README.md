@@ -5,7 +5,7 @@
 
 ##  Objetivo
 
-Aplicar os conhecimentos de modelagem lógica, normalização e manipulação de dados com SQL (DML), utilizando ferramentas reais como MySQL Workbench ou PGAdmin. O projeto visa consolidar a criação e manipulação de dados em um cenário realista.
+Aplicar os conhecimentos de modelagem lógica, normalização e manipulação de dados com SQL (DML), utilizando ferramentas reais como o SQLite Studio. O projeto visa consolidar a criação e manipulação de dados em um cenário realista.
 
 ##  Estrutura do Projeto
 
